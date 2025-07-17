@@ -4,3 +4,5 @@
 - visualization with plotly
 
 trained a prophet model to create a forecast for stocks
+
+deployed @ https://nabira-stock-predictor.streamlit.app/
